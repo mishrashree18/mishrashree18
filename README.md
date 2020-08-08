@@ -4,10 +4,10 @@
 
 ## I'm a Student who loves to learn and create!
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate with other content creators
 - 😄 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to design and write
+- ⚡ Fun fact: I love to design and write!
 
 ### Connect with me:
 
