@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate with other content creators
-- 😄 2020 Goals: Contribute more to Open Source projects
+- 😄 2020 Goals: Learn and work more!
 - ⚡ Fun fact: I love to design and write!
 
 ### Connect with me:
