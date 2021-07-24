@@ -3,10 +3,10 @@
 ### Hi there, I'm Shree 👋
 
 ## I'm a Student who loves to learn and create!
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on Web Development(MERN)
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate with other content creators
-- 😄 2020 Goals: Learn and work more!
+- 😄 2021 Goals: Learn and work more!
 - ⚡ Fun fact: I love to design and write!
 
 ### Connect with me:
